@@ -1,0 +1,255 @@
+{
+    "hotelId": 1178275040,
+    "hotelInfo": [
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/d4aada11.jpg",
+            "imageId": 81995328,
+            "mediaGUID": "d4aada11-7894-452f-869c-c39a60d0155f",
+            "name": "ARGENTINA",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_AR"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/a6dcbfc2.jpg",
+            "imageId": 81995468,
+            "mediaGUID": "a6dcbfc2-851a-4df7-a127-9371b10c8d53",
+            "name": "BELIZE",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_BZ"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/29d90922.jpg",
+            "imageId": 106568180,
+            "mediaGUID": "29d90922-e0b7-4f8d-8eab-80bd4e6cdbc9",
+            "name": "BOLIVIA",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_BO"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/895ded4a.jpg",
+            "imageId": 106566923,
+            "mediaGUID": "895ded4a-fb04-4fe1-a294-5bb8d0432bad",
+            "name": "BRAZIL",
+            "posName": "HCOM_BR",
+            "hcomLocale": "pt_BR"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/d4b10c49.jpg",
+            "imageId": 106566521,
+            "mediaGUID": "d4b10c49-3650-4543-8348-dba795263507",
+            "name": "CANADA_EN",
+            "posName": "HCOM_CA",
+            "hcomLocale": "en_CA"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/d4a09808.jpg",
+            "imageId": 106566553,
+            "mediaGUID": "d4a09808-ea11-432e-a0d7-bcc30dcc7821",
+            "name": "CANADA_FR",
+            "posName": "HCOM_CA",
+            "hcomLocale": "fr_CA"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/1bb12280.jpg",
+            "imageId": 81994037,
+            "mediaGUID": "1bb12280-c6b1-46d8-8402-3e0a7d791f3c",
+            "name": "CHILE",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_CL"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/3a604998.jpg",
+            "imageId": 106566612,
+            "mediaGUID": "3a604998-26d3-4978-9e5a-12bd84690b78",
+            "name": "COLOMBIA",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_CO"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/f33e5892.jpg",
+            "imageId": 106566619,
+            "mediaGUID": "f33e5892-4004-4569-9436-ea24c8b54a58",
+            "name": "COSTA_RICA",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_CR"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/0f174b94.jpg",
+            "imageId": 81997102,
+            "mediaGUID": "0f174b94-c1ca-4cc4-a08c-59377bede3f9",
+            "name": "ECUADOR",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_EC"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/94e49f6f.jpg",
+            "imageId": 82846465,
+            "mediaGUID": "94e49f6f-7087-44c2-bd84-0a6f50273fe0",
+            "name": "EL_SALVADOR",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_SV"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/e8aa2fc9.jpg",
+            "imageId": 540606894,
+            "mediaGUID": "e8aa2fc9-eec5-4484-9025-6bbf7f9467cb",
+            "name": "GUATEMALA",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_GT"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/d290e316.jpg",
+            "imageId": 81994726,
+            "mediaGUID": "d290e316-8dbc-458a-b276-243f761114dd",
+            "name": "FRENCH_GUIANA",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "fr_GF"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/91a8be32.jpg",
+            "imageId": 81994700,
+            "mediaGUID": "91a8be32-a75b-43f0-b66c-1c7a94a0e2ce",
+            "name": "GUYANA",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_GY"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/67bdc0e8.jpg",
+            "imageId": 81995516,
+            "mediaGUID": "67bdc0e8-6e12-49fc-863f-6b3201dc0571",
+            "name": "HONDURAS",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_HN"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/5f69bcbf.jpg",
+            "imageId": 81994705,
+            "mediaGUID": "5f69bcbf-7fff-4c46-bfe1-31fc5018bd04",
+            "name": "MEXICO_ES",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_MX"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/0484263a.jpg",
+            "imageId": 81995536,
+            "mediaGUID": "0484263a-7945-4399-84dd-d7d75b8f8e4f",
+            "name": "MEXICO_EN",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "en_MX"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/fde7e0ab.jpg",
+            "imageId": 81997760,
+            "mediaGUID": "fde7e0ab-a584-49ae-9170-9c2a26ec61b5",
+            "name": "NICARAGUA",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_NI"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/049ef9c3.jpg",
+            "imageId": 81997636,
+            "mediaGUID": "049ef9c3-5b7b-400d-acf8-d52ce44dedc4",
+            "name": "PANAMA",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_PA"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/095111da.jpg",
+            "imageId": 81995170,
+            "mediaGUID": "095111da-f9d0-4371-8e93-d5ed09bde7e9",
+            "name": "PARAGUAY",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_PY"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/345a0ac9.jpg",
+            "imageId": 81995255,
+            "mediaGUID": "345a0ac9-943a-4466-b887-28b74a8b6fbb",
+            "name": "PERU",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_PE"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/8e8e1aa5.jpg",
+            "imageId": 81994299,
+            "mediaGUID": "8e8e1aa5-8c32-411d-8b4b-721be5370594",
+            "name": "REST_OF_LATAM_EN",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "en_LA"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/221b2839.jpg",
+            "imageId": 81995246,
+            "mediaGUID": "221b2839-3802-4f53-8426-b5bcf473ef07",
+            "name": "SURINAME",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "nl_SR"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/0237e73b.jpg",
+            "imageId": 81997588,
+            "mediaGUID": "0237e73b-fde8-41d2-a667-b9b952fab8b9",
+            "name": "UNITED_STATES",
+            "posName": "HCOM_US",
+            "hcomLocale": "en_US"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/23b3c5c2.jpg",
+            "imageId": 81997640,
+            "mediaGUID": "23b3c5c2-5c99-4a08-9375-cd5c55f9521d",
+            "name": "UNITED_STATES_ES",
+            "posName": "HCOM_US",
+            "hcomLocale": "es_US"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/3daff7d6.jpg",
+            "imageId": 81997733,
+            "mediaGUID": "3daff7d6-ffff-462c-8c4b-21474e9aaf6c",
+            "name": "URUGUAY",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_UY"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/586dd269.jpg",
+            "imageId": 81996209,
+            "mediaGUID": "586dd269-f00a-4a48-982d-f4d023277ddb",
+            "name": "VENEZUELA",
+            "posName": "HCOM_LATAM",
+            "hcomLocale": "es_VE"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/7bf8db87.jpg",
+            "imageId": 106568075,
+            "mediaGUID": "7bf8db87-31ef-4df3-ab22-24a46f92c5c5",
+            "name": "AUSTRIA",
+            "posName": "HCOM_AT",
+            "hcomLocale": "de_AT"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/3c2b5896.jpg",
+            "imageId": 106566549,
+            "mediaGUID": "3c2b5896-bf98-462e-b99c-0929a5113c20",
+            "name": "BENELUX_BE",
+            "posName": "HCOM_BE",
+            "hcomLocale": "nl_BE"
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/37000000/36790000/36789900/36789845/c229d8d5.jpg",
+            "imageId": 81997745,
+            "mediaGUID": "3c2b5896-bf98-462e-b99c-0929a5113c20",
+            "name": "BENELUX_FR",
+            "posName": "HCOM_BE",
+            "hcomLocale": "fr_BE"
+        }
+    ],
+    "featuredImageTrackingDetails": {
+        "version": "20210825",
+        "namespace": "DataScience",
+        "algorithmName": "herobandit.v20201116-contextual-heroaesthetics.v20200130-hsc.v20190223"
+    },
+    "propertyImageTrackingDetails": {
+        "version": "20210825",
+        "namespace": "DataScience",
+        "algorithmName": "heroaesthetics.v20190411-hsc.v20190223"
+    }
+}

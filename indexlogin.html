@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>log</title>
+    <!-- MDB icon -->
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+    <!-- Google Fonts Roboto -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Material Design Bootstrap -->
+    <link rel="stylesheet" href="css/mdb.min.css">
+    <!-- Your custom styles (optional) -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+    <!-- swiper -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <!-- google font -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css" type="text/css" />
+    <link rel="stylesheet" href="css/log.css">
+</head>
+
+<body>
+
+    <!--section one  -->
+
+    <section class="one">
+        <div class="container">
+            <div class="row">
+                <h1>booking hotel</h1>
+                <form action="" class="">
+
+                    <div class="name">
+                        <h3>Full name</h3>
+                        <input type="text" name="" id="Fullname"> 
+                        <label for="Fullname">first name</label>
+
+                        <input type="text" id="lastName">
+                        <label for="lastName">last Name</label>
+                    </div>
+
+                    <div class="adrees">
+                        <h3>address</h3>
+                        <input type="text" name="" id="address">
+                        <label for="address">street Adress </label>
+
+                        <input type="text" name="" id="city">
+                        <label for="city">city</label>
+                    </div>
+
+
+                    <div class="hotel">
+                        <h3>hotel info</h3>
+                        <select name="hotels" id="hotels">
+                            <option value="hotels">hotel1</option>
+                            <option value="hotels">hotel1</option>
+                            <option value="hotels">hotel1</option>
+                            <option value="hotels" id="hotel">hotel1</option>
+                            <option value="hotels" id="hotel">hotel1</option>
+                            <option value="hotels" id="hotel">hotel1</option>
+                            <option value="hotels" id="hotel">hotel1</option>
+                            <option value="hotels" id="hotel">hotel1</option>
+                            <option value="hotels" id="hotel">hotel1</option>
+                        </select>
+                        <div class="info">
+                            <input type="checkbox" name="" id="dollar"> <label for="dollar">140$/night Single
+                                room</label>
+                            <input type="checkbox" name="" id="dollar"> <label for="dollar">140$/night double
+                                room</label>
+                            <input type="checkbox" name="" id="dollar"> <label for="dollar">140$/night sweat
+                                room</label>
+                            <input type="checkbox" name="" id="dollar"> <label for="dollar">140$/night special rooms
+                            </label>
+                            <input type="checkbox" name="" id="dollar"> <label for="dollar">140$/night xxxx room</label>
+                        </div>
+                        <input type="text" name="" id="hotelcity">
+                        <label for="hotelcity">hotel city</label>
+                    </div>
+                    <div class="arrival">
+                        <h3>arrival-Date /Time</h3>
+                        <input type="date" name="" id="arrivalDate">
+                        <input type="time" name="" id="time">
+                        <label for="time">hour /minutes/AM/PM </label>
+                    </div>
+                    <div class="Depature">
+                        <h3>Depature-Date/Time</h3>
+                        <input type="time" name="" id="time">
+                        <label for="time">hour /minutes/AM/PM </label>
+                    </div>
+
+                    <div class="number">
+                        <h3>Number of Adults</h3>
+                        <input type="number" name="" id="number">
+
+                        <h3>Number of Kids (if there are any)</h3>
+                        <input type="number" name="" id="number">
+                    </div>
+
+                    <div class="payment">
+                        <h3>Payment Method</h3>
+                        <h4>pay by</h4>
+                        <input type="checkbox" name="" id="ckeck"><label for="ckeck">ckeck</label>
+                        <input type="checkbox" name="" id="ckeck"><label for="ckeck">paypol</label>
+                    </div>
+
+                    <div class="text">
+                        <h3>any special request ?</h3>
+                        <textarea name="" id="" cols="30" rows="5"></textarea>
+                    </div>
+                    <button>Submit</button>
+
+                </form>
+
+
+
+
+
+
+
+            </div>
+        </div>
+
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/9.0.0/firebase-app.js";
+        import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.0.0/firebase-analytics.js";
+        // TODO: Add SDKs for Firebase products that you want to use
+        // https://firebase.google.com/docs/web/setup#available-libraries
+
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        const firebaseConfig = {
+            apiKey: "AIzaSyBMEDuheIm9jnHPqxDaIafdSasYiRidIQo",
+            authDomain: "global-axe-322401.firebaseapp.com",
+            projectId: "global-axe-322401",
+            storageBucket: "global-axe-322401.appspot.com",
+            messagingSenderId: "264980855058",
+            appId: "1:264980855058:web:9dadda5e42b32761025bcb",
+            measurementId: "G-7KMJC09SS4"
+        };
+
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const analytics = getAnalytics(app);
+    </script>
+
+
+
+    <!-- jQuery -->
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="js/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="js/mdb.min.js"></script>
+</body>
+
+</html>

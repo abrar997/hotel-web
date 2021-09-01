@@ -1,0 +1,145 @@
+/* type of font from google font */
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Rancho&display=swap');
+
+/* body */
+body{background-color: #eee;
+
+}
+
+/* section one */
+ .one .container .row{margin: auto;
+background-color: white;
+width: 70%;
+margin-top: 50px;
+box-shadow: 1px 1px 18px rgb(126, 124, 124);
+
+}
+/* h1 */
+.one .container .row h1{margin-bottom: 20px;
+text-align: center;
+margin-left: 00px;
+border-bottom: 2px solid grey;
+width: 100%;
+/* background-color: #0d347ebb; */
+color: #0d347ebb;
+padding-bottom: 15px;
+text-transform: capitalize;
+font-family: 'Bad Script', cursive;
+font-family: 'Rancho', cursive;
+border-bottom: 3px solid #0d347ebb;
+}
+/* form */
+ .one .container .row form{
+display: flex;
+flex-flow: column;
+
+}
+
+/* h3 */
+.one .container .row form h3{color: #0d347ebb;
+text-transform: capitalize;
+font-family: 'Bad Script', cursive;
+font-family: 'Rancho', cursive;
+margin-left: 50px;
+
+}
+/* label */
+.one .container .row form label{color: gray;
+text-transform: capitalize;
+
+
+}
+/* place holder */
+::placeholder{color: #0d347ebb;
+
+}
+/* inputs */
+.one .container .row input{margin: auto;
+margin-left: 50px;
+padding: 8px;
+outline: none;
+border: 1px solid #4a4e55bb;
+border-radius: 4%;
+}
+
+/* div name
+.one .container .row .name{
+
+} */
+
+/* div adreess */
+.one .container .row  .adrees{margin-top: 40px;
+
+}
+/* div hotel */
+.one .container .row  .hotel{margin-top: 30px;
+}
+/* id hotel in select */
+.one .container .row  #hotels{padding: 15px;
+background-color: #0d347ebb;
+color: white;
+margin-left: 40px;
+width: 300px;
+margin-block-end: 40px;
+text-transform: capitalize;
+}
+/* info appear b click on any hotel */
+.container .row .info{display: flex;
+flex-flow: column;
+margin-bottom: 40px;
+display: none;
+
+}
+/* info label */
+.container .row .info label{margin-left:100px;
+margin-top: -12px;
+
+
+}
+/* infp input */
+.container .row .info input[type='checkbox']{padding: 5px;
+
+}
+
+
+.one .container .row .arrival{margin-bottom: 40px;
+
+}
+
+.one .container .row .arrival h3{margin-bottom: 20px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
